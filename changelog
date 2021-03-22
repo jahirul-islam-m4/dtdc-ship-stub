@@ -1,5 +1,5 @@
 [22-Mar-2021]
-* [JI] jackson-databind version updated to 2.10.5 to prevent potential security vulnerabilities
+* [JI] jackson-databind version updated to 2.12.1 to prevent potential security vulnerabilities
 
 [05-Mar-2019]
 * [JI] Start DTDC stub with v0.0.1-SNAPSHOT
